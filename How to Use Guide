@@ -6,3 +6,8 @@ npm install @material-ui/core
 Svg installation : -
 
 npm install @material-ui/icons
+
+Material-UI Grid System :-
+
+1. There are five grid breakpoints: xs, sm, md, lg, and xl.
+2. Material design margins and columns follow an 8dp square baseline grid. Spacing can be 8, 16, 24, 32 or 40dp wide.
