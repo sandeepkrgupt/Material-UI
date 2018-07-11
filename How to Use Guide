@@ -1,0 +1,8 @@
+
+Installation : -
+
+npm install @material-ui/core
+-----------------------------------
+Svg installation : -
+
+npm install @material-ui/icons
